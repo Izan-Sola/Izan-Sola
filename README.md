@@ -34,6 +34,6 @@ Multiple ProjectKorra add-ons that add new abilities to existent elements or a c
 
 * Web minigames I made to play in class cuz everything else was blocked: [TextMinigames](https://github.com/Izan-Sola/TextMinigame), [TankMinigame](https://github.com/Izan-Sola/TankMinigame).
 * My final project for the superior grade in ASIR: [AdmiNetwork](https://github.com/Izan-Sola/AdmiNetwork)
-* [ContextoME-CLI](https://github.com/Izan-Sola/ContextoMe-CLI), play https://contexto.me from the terminal.
+* [ContextoMe-CLI](https://github.com/Izan-Sola/ContextoMe-CLI), play https://contexto.me from the terminal.
 
 </details>
