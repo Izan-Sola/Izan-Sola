@@ -9,7 +9,7 @@
 
 * Your average 20 y/o AI bro but I actually know what I'm doing (to a certain extent heh~)
 * I like to make stuff, as my description says, to learn more stuff and make more stuff... you get it.
-* Unemployed becuase the AI I love so much has nuked any entry level offer ever in existence.
+* Unemployed because the AI I love so much has nuked any entry level offer ever in existence.
 
 ### Main Projects
 
