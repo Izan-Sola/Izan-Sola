@@ -1,5 +1,3 @@
-## About me and info
-
 <p align="center">
   Spain &nbsp; | &nbsp;
   Java · NodeJS · JavaScript · CSS · HTML &nbsp; | &nbsp;
