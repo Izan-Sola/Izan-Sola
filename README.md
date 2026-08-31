@@ -1,4 +1,4 @@
-<p align="center">
+
   Spain &nbsp; | &nbsp;
   Java · NodeJS · JavaScript · CSS · HTML &nbsp; | &nbsp;
   Spanish · English &nbsp; | &nbsp;
@@ -11,7 +11,8 @@
 * Your average 20 y/o AI bro but I actually know what I'm doing (to a certain extent heh~)
 * I like to make stuff, as my description says, to learn more stuff and make more stuff... you get it.
 * Unemployed because the AI I love so much has nuked any entry level offer ever in existence.
-  
+* Contact:<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f0f5791a-ef65-45ed-94c8-837c52cf6e98" />
+ solamontesinosizan@gmail.com  
 </details>
 
 ### Main Projects
