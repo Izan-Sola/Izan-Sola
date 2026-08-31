@@ -1,8 +1,9 @@
-
+<p align="center">
   Spain &nbsp; | &nbsp;
   Java · NodeJS · JavaScript · CSS · HTML &nbsp; | &nbsp;
   Spanish · English &nbsp; | &nbsp;
-  AI
+  AI <br>
+  <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/f0f5791a-ef65-45ed-94c8-837c52cf6e98" valign="middle"> solamontesinosizan@gmail.com | <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/9b4acde5-a639-42fa-8109-6e9f04f70a95" valign="middle"> shinyshadow_
 </p>
 
 <details>
@@ -11,7 +12,7 @@
 * Your average 20 y/o AI bro but I actually know what I'm doing (to a certain extent heh~)
 * I like to make stuff, as my description says, to learn more stuff and make more stuff... you get it.
 * Unemployed because the AI I love so much has nuked any entry level offer ever in existence.
-* Contact: <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/f0f5791a-ef65-45ed-94c8-837c52cf6e98" valign="middle"> solamontesinosizan@gmail.com | <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/9b4acde5-a639-42fa-8109-6e9f04f70a95" valign="middle"> shinyshadow_
+
 
 </details>
 
