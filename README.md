@@ -25,6 +25,7 @@ Long story short, I'm hosting an AI model locally and making it do stuff. Main f
 * Playing Minecraft survival and fighting with [ProjectKorra](https://projectkorra.com/) abilities.
 * Playing VRChat ([lilyvrchat](https://github.com/Izan-Sola/LilyVrchat)), kinda. Follows me, performs default actions and listens to voices and talks through the game.
 * She can also use Discord and code in VSC via the `Continue` extension.
+* If you are interested in implementing her brain for your AI for any of the functionalities check [this](https://github.com/Izan-Sola/Lily/blob/main/HOW_TO_USE.md) guide.
 
 #### Mario PowerUPS ([mariopowerups](https://github.com/Izan-Sola/MarioPowerUps))
 
