@@ -1,5 +1,5 @@
 <p align="center">
-  Spain &nbsp; | &nbsp;
+  🇪🇸 Spain &nbsp; | &nbsp;
   Java · NodeJS · JavaScript · CSS · HTML &nbsp; | &nbsp;
   Spanish · English &nbsp; | &nbsp;
   AI <br><br>
