@@ -36,7 +36,7 @@ A Minecraft plugin that includes some Mario power ups such as, the Red Star, Bea
 Multiple ProjectKorra add-ons that add new abilities to existent elements or a completely new element, such as: [Void](https://github.com/Izan-Sola/Void-Abilities-for-Projectkorra), [Spiritual Abilities](https://github.com/Izan-Sola/Spiritual-Abilities-for-ProjectKorra)
 
 <details>
-<summary><strong>Less important but interesting (atleast for me) stuff:</strong></summary><br>
+<summary><strong>Other projects:</strong></summary><br>
 
 * A minecraft plugin that adds configurable player profiles: [Player Profiles](https://github.com/Izan-Sola/PlayerProfiles)
 * Web minigames I made to play in class cuz everything else was blocked: [TextMinigames](https://github.com/Izan-Sola/TextMinigame), [TankMinigame](https://github.com/Izan-Sola/TankMinigame).
