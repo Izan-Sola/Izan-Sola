@@ -38,7 +38,7 @@ Multiple ProjectKorra add-ons that add new abilities to existent elements or a c
 <details>
 <summary><strong>Less important but interesting (atleast for me) stuff:</strong></summary><br>
 
-* A minecraft plugin that adds configurable player profiles: [Player Profiles](https://github.com/Izan-Sola)
+* A minecraft plugin that adds configurable player profiles: [Player Profiles](https://github.com/Izan-Sola/PlayerProfiles)
 * Web minigames I made to play in class cuz everything else was blocked: [TextMinigames](https://github.com/Izan-Sola/TextMinigame), [TankMinigame](https://github.com/Izan-Sola/TankMinigame).
 * My final project for the superior grade in ASIR: [AdmiNetwork](https://github.com/Izan-Sola/AdmiNetwork)
 * [ContextoMe-CLI](https://github.com/Izan-Sola/ContextoMe-CLI), play https://contexto.me from the terminal.
