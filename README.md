@@ -18,6 +18,8 @@
 
 ### Main Projects
 
+####### All repositories created by me are under the GPL 3.0 license UNLESS stated otherwise.
+
 #### Lily ([lily](https://github.com/Izan-Sola/Lily))
 
 Long story short, I'm hosting an AI model locally and making it do stuff. Main functionalities include:
