@@ -18,7 +18,7 @@
 
 ### Main Projects
 
-###### All repositories created by me are licensed under the GNU General Public License v3.0 (GPL-3.0-only), unless explicitly stated otherwise.
+###### All repositories created by me are licensed under the GNU General Public License v3.0 (GPL-3.0-only) unless explicitly stated otherwise.
 
 #### Lily ([lily](https://github.com/Izan-Sola/Lily))
 
