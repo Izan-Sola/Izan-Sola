@@ -27,8 +27,8 @@ Long story short, I'm hosting an AI model locally and making it do stuff. Main f
 * Playing Minecraft survival and fighting with [ProjectKorra](https://projectkorra.com/) abilities.
 * Playing VRChat ([lilyvrchat](https://github.com/Izan-Sola/LilyVrchat)), kinda. Follows me, performs default actions and listens to voices and talks through the game.
 * She can also use Discord and code in VSC via the `Continue` extension. She is also connected to Pi and n8n.
-* If you are interested in implementing her brain for your AI for any of the functionalities check [this](https://github.com/Izan-Sola/Lily/blob/main/HOW_TO_USE.md) guide.
-
+* Connected with Pi and n8n, in combination with STTS, she can be like a personal assistant. With remote device use too.
+  
 #### Mario PowerUPS ([mariopowerups](https://github.com/Izan-Sola/MarioPowerUps))
 
 A Minecraft plugin that includes some Mario power ups such as, the Red Star, Beam Box, Fire Flower, Rock Mushroom, and more.
